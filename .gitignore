@@ -1,1 +1,18 @@
-venv
+# Environments
+venv/
+.env
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+*.egg
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
