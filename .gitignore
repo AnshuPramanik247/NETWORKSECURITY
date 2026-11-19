@@ -21,3 +21,7 @@ pyrightconfig.json
 # Logs
 logs/
 *.log
+
+# Pipeline Artifacts
+Artifacts/
+
